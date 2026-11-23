@@ -1,5 +1,5 @@
 package cosas.envases;
-import cosas.*;
+import cosas.Reciclable;
 
 public class EnvasePlastico extends Envase implements Reciclable {
 	

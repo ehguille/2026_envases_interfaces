@@ -1,6 +1,6 @@
 package cosas.envases;
 
-public class Envase {
+public abstract class Envase {
 	
 	public static final int NUM_MAX_USOS=50;
 	protected int numeroUsos;
